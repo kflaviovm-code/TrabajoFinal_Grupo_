@@ -1,0 +1,4 @@
+R001|Carlos|0
+R002|Ana|0
+R003|Luis|0
+R004|Rosa|0

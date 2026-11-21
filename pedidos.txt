@@ -1,0 +1,3 @@
+1|Klinsman |Chorillos|500|Premium|Pendiente|---
+P002|Klinsman |Barranco |120|Premium|En Ruta|R001
+0009|Penelope |Chorrillos |85|Express|Pendiente|---
